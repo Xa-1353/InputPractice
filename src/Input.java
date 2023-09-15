@@ -3,9 +3,9 @@ public class Input {
 
         //(c) A+ Computer Science
 //www.apluscompsci.com
-//NAME -
-//DATE -
-//PURPOSE -
+//NAME - Xaria Atienza
+//DATE - 09/15/2023
+//PURPOSE - Input Practice
 
 
 
